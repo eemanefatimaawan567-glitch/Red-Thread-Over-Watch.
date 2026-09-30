@@ -1,1 +1,1 @@
-{"buildCommand": "cd artifacts/red-thread-over-watch && pnpm build", "outputDirectory": "artifacts/red-thread-over-watch/dist", "framework": "vite"}
+{"installCommand": "pnpm install", "buildCommand": "pnpm build", "outputDirectory": "dist", "framework": "vite"}

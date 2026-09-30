@@ -1,0 +1,28 @@
+kind = "web"
+previewPath = "/"
+title = "Red Thread: Over Watch"
+description = "A playable browser-based third-person tactical shooter mission set in Sector 07, where Kingfisher infiltrates an abandoned industrial district, uses sniper combat and Overwatch to reach a communications terminal, and stops the Dead Signal transmission."
+version = "1.0.0"
+id = "artifacts/red-thread-over-watch"
+router = "path"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 21894
+
+[services.development]
+run = "pnpm --filter @workspace/red-thread-over-watch run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/red-thread-over-watch", "run", "build" ]
+serve = "static"
+publicDir = "artifacts/red-thread-over-watch/dist/public"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "21894"
+BASE_PATH = "/"

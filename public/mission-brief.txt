@@ -1,0 +1,25 @@
+Create a polished 3D tactical action-shooter called “RED THREAD: OVER WATCH.”
+
+The game follows Kingfisher, an elite female sniper and covert operative sent alone into a hostile industrial district at night to stop an enemy transmission. The game should feel like a real modern third-person shooter, with the visual quality, character movement, camera presentation and combat intensity associated with polished mobile/PC action games. Characters must look like believable human soldiers—not glowing figures, block characters, holograms or board-game pieces.
+
+KINGFISHER: Create a realistic female tactical operative wearing dark military clothing, combat boots, body armor, gloves, utility gear and a sniper rifle. She should always hold her weapon naturally. Give her smooth idle, walk, run, crouch, take-cover, aim, reload and shooting animations. Her body should turn naturally toward targets. Never show her in a T-pose.
+
+CORE GAMEPLAY: Use a third-person over-the-shoulder camera during exploration and combat. Kingfisher can move freely through the environment, sprint, crouch behind cover, aim her sniper rifle, shoot enemies and reposition tactically. Shooting should feel powerful: weapon recoil, muzzle flash, bullet tracer, shell/audio feedback, enemy hit reactions and environmental impact effects.
+
+SNIPER GAMEPLAY: When the player aims with the sniper rifle, transition smoothly into a sniper-scope view with crosshairs and zoom. Accurate shots should reward careful positioning and timing. For important long-range kills, briefly use a cinematic camera effect before returning control to the player.
+
+SIGNATURE OVERWATCH SYSTEM: Kingfisher has a special ability called OVERWATCH. The player chooses a direction or area for Kingfisher to watch. She takes a tactical sniper position and automatically fires when an enemy enters her line of sight. Make this one of the game's defining mechanics rather than a normal shooting ability.
+
+MISSION — SECTOR 07: DEAD SIGNAL: Kingfisher infiltrates an abandoned enemy-controlled industrial district. Her objective is to reach and disable a communications terminal before an enemy transmission finishes. The area contains warehouses, narrow streets, rooftops, shipping containers, concrete barriers, abandoned vehicles, fences, crates and elevated sniper positions. Enemies patrol the area and react when they detect Kingfisher.
+
+ENEMY AI: Enemies should patrol, investigate suspicious activity, detect the player, take cover, reposition, shoot and attempt to flank her. Allow both stealth and direct combat. Enemies should not simply stand still waiting to be shot.
+
+WORLD AND VISUAL STYLE: Make the environment grounded and realistic with natural nighttime lighting, street lamps, moonlight, shadows, smoke, dust, fog and subtle environmental effects. Use realistic concrete, metal, asphalt, clothing and weapon materials. Avoid excessive neon, cyan, glowing sci-fi architecture or futuristic holograms. The world should feel dangerous, abandoned and believable.
+
+MISSION OBJECTIVE: The communications terminal should look like believable military equipment with antennas, monitors, cables and radio hardware. Indicate the objective through subtle game UI rather than a giant glowing beam.
+
+HUD: Keep the HUD clean and professional. Show health, ammunition, weapon, objective, enemy awareness and the Overwatch ability. Use dark neutral military colors with restrained red warning indicators. Keep large UI panels off the screen during normal gameplay so the player can see the environment.
+
+GAME FLOW: Begin with a short cinematic establishing shot of Sector 07, then place the camera behind Kingfisher and give control to the player. The player infiltrates the district, uses stealth and sniper combat, eliminates or avoids enemies, reaches the communications terminal and disables the transmission. Finish with a cinematic mission-complete sequence.
+
+MOST IMPORTANT: This must look and play like a real 3D tactical shooter, not a turn-based board game. Prioritize realistic human characters, weapon handling, responsive third-person controls, enemy AI, cover, sniper mechanics and animation quality. Build one highly polished playable mission rather than many unfinished levels.

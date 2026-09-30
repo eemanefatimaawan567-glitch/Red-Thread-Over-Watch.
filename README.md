@@ -10,7 +10,7 @@ Chapter 04 of **RED THREAD**: an infiltration mission where you pick a lead, cho
 
 | Chapter intro | Mission setup | Gameplay |
 |---|---|---|
-| ![Chapter intro](docs/screenshots/chapter-intro.png) | ![Mission setup](docs/screenshots/mission-setup.png) | ![Gameplay](docs/screenshots/gameplay.png) |
+| <img src="chapter-intro.png" width="300"> | <img src="mission-setup.png" width="300"> | <img src="gameplay.png" width="300"> |
 
 ---
 

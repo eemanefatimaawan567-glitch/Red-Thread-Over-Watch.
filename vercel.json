@@ -1,1 +1,1 @@
-{"framework": "vite", "outputDirectory": "dist", "rewrites": [{"source": "/(.*)", "destination": "/"}]}
+{"outputDirectory": "dist/public"}

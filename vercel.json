@@ -1,1 +1,1 @@
-{"installCommand": "pnpm install", "buildCommand": "pnpm build", "outputDirectory": "dist", "framework": "vite"}
+{"framework": "vite", "outputDirectory": "dist"}

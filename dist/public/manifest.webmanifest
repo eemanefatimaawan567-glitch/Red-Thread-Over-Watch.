@@ -1,0 +1,18 @@
+{
+  "name": "Red Thread: Over Watch",
+  "short_name": "Red Thread",
+  "description": "A cute cinematic stealth-action mystery in Luma District.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#11182a",
+  "theme_color": "#171a32",
+  "orientation": "landscape",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

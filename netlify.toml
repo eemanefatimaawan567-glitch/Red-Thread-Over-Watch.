@@ -1,6 +1,7 @@
 [build]
-  command = "pnpm build"
+  command = "corepack enable && pnpm install --frozen-lockfile=false && pnpm build"
   publish = "dist"
 
 [build.environment]
-  PNPM_VERSION = "latest"
+  NODE_VERSION = "20"
+  PNPM_VERSION = "9.15.0"
